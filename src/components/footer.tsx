@@ -15,7 +15,15 @@ export default function Footer() {
               >
                 Creative Tim
               </a>
-              .
+              . Powered by{" "}
+              <a
+                href="https://xaen.ae"
+                className="text-dark ms-1"
+                rel="noopener"
+                target="_blank"
+              >
+                xaen.ae
+              </a>
             </div>
           </div>
           <div className="col-lg-6">
